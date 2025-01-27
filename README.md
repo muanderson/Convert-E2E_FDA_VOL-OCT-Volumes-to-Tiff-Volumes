@@ -1,6 +1,15 @@
 # Convert-Raw-OCT-Volumes-to-Tiff-Volumes
 # OCT Raw Data Conversion Scripts
 
+<p align="center">
+  <img src="sample_imgs/slice_24.png" width="400" />
+  <img src="sample_imgs/slice_26.png" width="400" />
+</p>
+<p align="center">
+  <img src="sample_imgs/slice_27.png" width="400" />
+  <img src="sample_imgs/slice_30.png" width="400" />
+</p>
+
 This repository contains Python scripts for converting raw OCT (Optical Coherence Tomography) files from Heidelberg Spectralis devices into TIFF volumes. These scripts were developed to process specific datasets from Heidelberg Spectralis OCT machines, as there weren't readily available tools for this conversion on GitHub at the time.
 
 ## Supported Formats
