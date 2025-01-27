@@ -41,3 +41,6 @@ Directory structure from the input is preserved in the output
 
 ## Disclaimer
 These scripts are shared as-is, primarily as a reference for others working with Heidelberg Spectralis OCT data. They may require modification to work with different versions of the file formats or different OCT machines.
+
+## License
+This repository is licensed under the MIT License (See License Info). If you are intending to use this repository for commercial use cases, please check the licenses of all Python packages used.
