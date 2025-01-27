@@ -10,7 +10,7 @@
   <img src="sample_imgs/slice_30.png" width="400" />
 </p>
 
-This repository contains Python scripts for converting raw OCT (Optical Coherence Tomography) files from Heidelberg Spectralis devices into TIFF volumes. These scripts were developed to process specific datasets from Heidelberg Spectralis OCT machines, as there weren't readily available tools for this conversion on GitHub at the time.
+This repository contains Python scripts for converting raw OCT (Optical Coherence Tomography) files from Heidelberg Spectralis devices into TIFF volumes, primarily using the oct-converter package (https://github.com/marksgraham/OCT-Converter). These scripts were developed to process specific datasets from Heidelberg Spectralis OCT machines.
 
 ## Supported Formats
 - `.e2e` files (Heidelberg Spectralis export format)
