@@ -35,11 +35,11 @@ python scripts/convert_fda_to_tiff.py /path/to/input/directory /path/to/output/d
 
 The scripts will:
 
-Recursively search through the input directory for files of the respective format
-Maintain the directory structure in the output location
-Convert each file to a TIFF volume
-Apply contrast enhancement using a double square root transformation
-Save the processed volumes as float32 TIFF files
+- Recursively search through the input directory for files of the specified format
+- Maintain the directory structure in the output location
+- Convert each file to a TIFF volume
+- Apply contrast enhancement using a double square root transformation
+- Save the processed volumes as float32 TIFF files
 
 ## Important Notes
 
